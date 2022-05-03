@@ -54,7 +54,7 @@ export default function index() {
         </Row>
       </Hidden>
       <Text fColor="white" padding="30px 0" tAlign="center">
-        ©All rights reserved Gold Lion 2022.
+        ©All rights reserved 2022.
       </Text>
     </>
   );

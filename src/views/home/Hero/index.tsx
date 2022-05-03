@@ -80,7 +80,7 @@ export default function index() {
                   fColor="primary.regular"
                   hoverStyle={{ fColor: "white" }}
                   onClick={() => {
-                    move("https://github.com/GoldLiondev/GL-Next-boilerplate");
+                    move("https://github.com/redcabinet921/next-boilerplate.git");
                   }}
                 />,
               ]}
